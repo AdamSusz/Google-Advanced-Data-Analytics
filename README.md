@@ -1,4 +1,4 @@
-# Google Advanced Data Analytics — Project Portfolio
+# Google Advanced Data Analytics 
 
 This repository contains all work completed as part of the **Google Advanced Data Analytics Professional Certificate**, offered by Google on Coursera.  
 It includes projects, exercises, and case studies that demonstrate skills in data analysis, statistics, machine learning, and data storytelling.
@@ -60,3 +60,4 @@ This project included data exploration, cleaning, visualisation, and the creatio
 - Communicating insights through visualisation and reporting  
 
 ---
+
